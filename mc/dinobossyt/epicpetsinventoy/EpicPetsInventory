@@ -1,0 +1,20 @@
+package mc.dinobossyt.epicpetsinventoy;
+
+import org.bukkit.ChatColor;
+import org.bukkit.plugin.PluginDescriptionFile;
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class EpicPetsInventory extends JavaPlugin{
+
+	  PluginDescriptionFile pdf = getDescription();
+	  public String rutaConfig;
+	  public String prefix = ChatColor.translateAlternateColorCodes('&', "&7[&5Epic&dPets&bInventory&7] ");
+	  public String V = pdf.getVersion();
+	  
+	  public void onEnable() {
+		  
+	  }
+	  public void onDisable() {
+		  
+	  }
+}
