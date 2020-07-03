@@ -1,0 +1,17 @@
+package mc.dinobossyt.epicpetsinventoy.comandos;
+
+import org.bukkit.command.Command;
+import org.bukkit.command.CommandExecutor;
+import org.bukkit.command.CommandSender;
+
+import mc.dinobossyt.epicpetsinventoy.EpicPetsInventory;
+
+public class EpicPetsInventoryCommands implements CommandExecutor{
+		EpicPetsInventory plugin;
+	
+	
+	@Override
+	public boolean onCommand(CommandSender arg0, Command arg1, String arg2, String[] arg3) {
+		return false;
+	}
+}
