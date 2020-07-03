@@ -25,7 +25,5 @@ public class EpicInventoryPets_Core {
 	//todo lo que desactivare cuando se pare el plugin o se apage.
 	public void onDisable() {
 		
-		
-		
 	}
 }
