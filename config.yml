@@ -30,7 +30,7 @@ PetsList:
     #Configuracion de nombre de pet.
       displayername: '&a&lSlime &2&lPET'
       #¿Qué skin debe tener el artículo para mascotas?
-      skin: ''
+      skin: 'Slime'
       #¿Qué lore debe tener la mascota? SOLO PUEDE TENER 1 a 7 LÍNEAS!!
       lore:
       - '&7Obtenga la inmunidad para evitar daños'
