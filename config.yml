@@ -1,1 +1,42 @@
-
+#########################
+# By: DinoBossYT        #
+# Full fan InventoryPets#
+#   T.t que te guste    #
+#########################
+#Estos son los ajustes para las mascotas.
+PetsList:
+#Configuración que puede cambiar para la mascota del Slime esto es solo 1 ejemplo.
+  Slime:
+  #Configuración de en qué huevo/nivel entra esta mascota.
+    Settings:
+      #¿Se puede encontrar esta mascota en un huevo para mascotas? true o false.
+      inEgg: true
+      #¿En qué nivel estará esta mascota? 
+      #Tiers: 1 = Exclusivo, 2 = Ultimates, 3 = Legendarios, 4 = Basicos
+      #¡SE REQUIERE UN REINICIO DEL SERVIDOR (NO/NO RECARGADO) PARA CAMBIAR ESTO!
+      #¡SI SE RECARGA LA CONFIGURACION PUEDE DAR ERROR POR SU GRAN CARGO DE TEXTO Y CODIGO!
+      tier: 1
+    item:
+    #-----------------------------
+    #Configuraciones para el item de mascota esto mostrara las cosas de la mascota ejemplos sus tipos hay 3 tipos
+    #AGRESIVO: Efecto cuando ataques.
+    #DEFENSIVO: Efecto cuando te ataquen.
+    #PASIVO: Efecto siempre que no te ataquen ni tu ataques.
+    #-----------------------------
+    #AGRESIVO ejemplo puede dar fuerza.
+    #DEFENSIVO ejemplo resitencia a golpes y daños eres un tanque es un ejemplo.
+    #PASIVO ejemplo cura pasivo y speed para uir mas rapido.
+    #-----------------------------
+    #Configuracion de nombre de pet.
+      displayername: '&a&lSlime &2&lPET'
+      #¿Qué skin debe tener el artículo para mascotas?
+      skin: ''
+      #¿Qué lore debe tener la mascota? SOLO PUEDE TENER 1 a 7 LÍNEAS!!
+      lore:
+      - '&7Obtenga la inmunidad para evitar daños'
+      - '&7Puedes ser más duro y más resistente como un Diamante.'
+      - '&r'
+      - '&b&lDEFENSIVO'
+      - '&7* Pon esta mascota en tu inventario para'
+      - '&7   Resibir los effecots.'
+      - '&r'
