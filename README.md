@@ -6,9 +6,16 @@
 - Se optimizo el Servidor al maximo.
 - Se desactivaron mobs voladores.
 - La Barrera de mundos nos protege para que nadie se me salga del mapa.
-
+sachingorkar10
 ## [NoPublicado]
 - Se remplazo el oreregenerate por (ApinMinesPrivates "Packets para ores asi todos minan sin quejas")
+
+
+## [0.1.5] - 2022-03-14
+### DEVLOG
+- SE MODIFICO EL ANIMERADIOACTIVE PARA MEJOR TRABAJO DEL TAL.
+- SE ELIMINO LA CLASSE QUE CAUSABA NULL EN 1.18.2.
+- SE MEJORO EL SISTEMA DE REGIONES AHORA USAMOS UNA API MEJORADA Y LIMPIA.
 
 ## [0.1.4] - 2022-03-12
 ### Added
