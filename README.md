@@ -1,5 +1,45 @@
 # DUGEONS CUSTOMS
 
+## [0.2.2] 06/05/2022
+# Cambios
+
+- Se cambió aaplus por alonsolevels.
+- Se cambió la lógica de chestaction.
+- Se cambió el plugin animatedscoreboars por sentelboard.
+- Se cambió flamecord por nullcord.
+
+## [0.2.1] 05/05/2022
+# Añadió
+- Se añadió AnimeV(AntiCheat)
+- Se actualizo el proxy nullcordx.
+- Se añadió ElementalToken.
+- Se añadió ElementalGems.
+- Se añadió ChestActioner (privado)
+- Se tradujeron todos los plugins (alonsotags no todo)
+- Se añadieron 3 modelos más time bomb , arma y cargadores.
+- Se añadió lógica al gui de tier.
+
+## [0.2.0] 04/05/2022
+# Compras :purse:
+- Se compraron 3 modelos nuevos 3d (€8)
+- Se compró el vulcan ($19,99 USD)
+- Se compró el magiccosmetic(€9,99)
+- Se compró remplaceore(4,99)
+- Se pagó al devs ($512) en total.
+- Se compraron modelos a un diseñador profesional (€23) 
+- Se compraron rangos y/o font 10: drogadicto, Otaku, otakuelite,nini,ninielite, onii-chan etc,etc($8 USD)
+- Se compraro un nuevo plugin de crates(€9)
+
+## [0.1.9]  02/05/2022
+# Correcciones
+- Bug de dupeo.
+- Bug executableitems.
+- Bloqueador de comamos y viaversion.
+- AnimeCore - AnimeRadioactive minor fixed
+- Protocolib packet 32 y 81 reparados.
+- Detectados de falso - positivo.
+
+## [0.1.8] 
 # Lista de cambios
 - Cambios en el nucleo de AnimeCore.
 - Cambios en el idioma de central de AnimeCore.
