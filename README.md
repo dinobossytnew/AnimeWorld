@@ -1,4 +1,45 @@
 # DUGEONS CUSTOMS
+## [0.2.6] 13/06/2022
+# Cambios
+- se mejoro el rendimiento.
+- se modificó casi todo el sistema de minería pensado en hypixel y será adaptado en las minas de Alejandro.
+- se modifica todos los Kits.
+- se establece kits.
+- ahora los premium pueden lograrse sin problema alguno.
+
+## [0.2.5] 11/05/2022
+# Correcciones.
+- Se cambió el plugin de crates.
+- Se modificó el pack de recursos .
+- Se corrigió el shop.
+- Se corrigió el generador de minas.
+- Se reparo el explosivos colocables que se bugearon por problemas técnicos.
+
+## [0.2.4] 09/05/2022 
+# Cambios y Mejoras.
+- se modificó el formato de explosivos.
+- se modificó la semilla de María..
+- se corrigieron fallos menores.
+- se reparo el menú de tiers ahora se oculta correctamente.
+- se hizo kit usuario.
+- se activo el sheadercore para efectos de supertexto.
+- se activo la licencia del pack recursos que no pesa nada.
+
+
+## [0.2.3] 07/05/2022
+# Cambia-añadido-modificado
+* ítemsAdder> AnimeWorld pack modelos y texturas.
+* Pack pesa 5 mb menos.
+* Pack saco muchos modelos no se usaban.
+* Pack ahora usa modelos 100% originales y los que trae el plugin.
+* Pack ahora cuenta con iconos , tags nuevos.
+* Pack ahora será enviado al jugador una vez termine de lograrse o registrarse(para no usarlo desactivarlo pero no se recomienda).
+* Pack ahora se corrigieron varios cosméticos originales.
+* Pack ahora diferencia de que es un cosmético y que no.
+* Pack ahora tiene soporte a enchantamentforge.
+* Pack ahora soporta alonsotagspro.
+* Pack ahora soporta alonsolevelspro.
+* Pack ahora tiene la obligación de ser instalado si o no.
 
 ## [0.2.2] 06/05/2022
 # Cambios
