@@ -1,3 +1,10 @@
+# PRISON ANIME
+## [BETA] 14/07/2022
+# Progreso
+- Se añadieron todos los plugins necesarios.
+- Se tradujo la modalidad completa.
+- Se hizo 1.8.8 de base.
+
 # DUGEONS CUSTOMS
 ## [0.2.6] 13/06/2022
 # Cambios
