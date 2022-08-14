@@ -1,3 +1,14 @@
+# DUGEONS CUSTOMS REMAKE
+## [0.2.6] 14/08/2022
+# Cambios 
+- Se remplazo el sistema donde los jugadores viviran.
+- Se tiro a la basura mucha config obsoleta.
+- Se compraron 30 modelos nuevos. 
+- Se empezo a configurar ItemsAdder desde 0....
+   * Se cambio y/o modifico el sistema de mana.
+   * Se modifico y/o Cambio sistema de compilacon de datos.
+   * Se añadio nuevas animaciones.
+
 # PRISON ANIME
 ## [BETA] 14/07/2022
 # Progreso
